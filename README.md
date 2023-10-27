@@ -5,6 +5,8 @@
 <h4>Project Name: Stock Market Prediction Analysis using Python</h4>
 <h4> Source: Jupyter Notebook</h4>
 
+ 
+
 🔍 What I accomplished:
 
 Developed a data-driven model to predict stock market trends and make informed investment decisions.
