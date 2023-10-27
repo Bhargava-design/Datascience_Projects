@@ -5,7 +5,9 @@
 <h4>Project Name: Stock Market Prediction Analysis using Python</h4>
 <h4> Source: Jupyter Notebook</h4>
 
- 
+ <h4>Stock MArket Predticion use the below link</h4>
+
+ ## https://www.linkedin.com/posts/bhargava-guduru-515a2622b_datascience-stockmarketanalysis-python-activity-7123713688175329280-RN08?utm_source=share&utm_medium=member_desktop
 
 🔍 What I accomplished:
 
